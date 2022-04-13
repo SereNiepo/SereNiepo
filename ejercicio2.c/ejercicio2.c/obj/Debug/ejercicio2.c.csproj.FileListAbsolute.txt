@@ -1,0 +1,8 @@
+C:\Users\TUP^\Documents\ejercicio2.c\ejercicio2.c\bin\Debug\ejercicio2.c.exe.config
+C:\Users\TUP^\Documents\ejercicio2.c\ejercicio2.c\bin\Debug\ejercicio2.c.exe
+C:\Users\TUP^\Documents\ejercicio2.c\ejercicio2.c\bin\Debug\ejercicio2.c.pdb
+C:\Users\TUP^\Documents\ejercicio2.c\ejercicio2.c\obj\Debug\ejercicio2.c.csproj.AssemblyReference.cache
+C:\Users\TUP^\Documents\ejercicio2.c\ejercicio2.c\obj\Debug\ejercicio2.c.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUP^\Documents\ejercicio2.c\ejercicio2.c\obj\Debug\ejercicio2.c.csproj.CoreCompileInputs.cache
+C:\Users\TUP^\Documents\ejercicio2.c\ejercicio2.c\obj\Debug\ejercicio2.c.exe
+C:\Users\TUP^\Documents\ejercicio2.c\ejercicio2.c\obj\Debug\ejercicio2.c.pdb

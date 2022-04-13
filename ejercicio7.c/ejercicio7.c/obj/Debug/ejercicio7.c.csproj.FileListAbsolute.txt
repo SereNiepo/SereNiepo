@@ -1,0 +1,8 @@
+C:\Users\TUP^\Documents\ejercicio7.c\ejercicio7.c\bin\Debug\ejercicio7.c.exe.config
+C:\Users\TUP^\Documents\ejercicio7.c\ejercicio7.c\bin\Debug\ejercicio7.c.exe
+C:\Users\TUP^\Documents\ejercicio7.c\ejercicio7.c\bin\Debug\ejercicio7.c.pdb
+C:\Users\TUP^\Documents\ejercicio7.c\ejercicio7.c\obj\Debug\ejercicio7.c.csproj.AssemblyReference.cache
+C:\Users\TUP^\Documents\ejercicio7.c\ejercicio7.c\obj\Debug\ejercicio7.c.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUP^\Documents\ejercicio7.c\ejercicio7.c\obj\Debug\ejercicio7.c.csproj.CoreCompileInputs.cache
+C:\Users\TUP^\Documents\ejercicio7.c\ejercicio7.c\obj\Debug\ejercicio7.c.exe
+C:\Users\TUP^\Documents\ejercicio7.c\ejercicio7.c\obj\Debug\ejercicio7.c.pdb
