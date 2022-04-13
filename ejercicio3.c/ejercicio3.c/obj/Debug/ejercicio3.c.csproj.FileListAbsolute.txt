@@ -1,0 +1,7 @@
+C:\Users\TUP^\Documents\ejercicio3.c\ejercicio3.c\bin\Debug\ejercicio3.c.exe.config
+C:\Users\TUP^\Documents\ejercicio3.c\ejercicio3.c\bin\Debug\ejercicio3.c.exe
+C:\Users\TUP^\Documents\ejercicio3.c\ejercicio3.c\bin\Debug\ejercicio3.c.pdb
+C:\Users\TUP^\Documents\ejercicio3.c\ejercicio3.c\obj\Debug\ejercicio3.c.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUP^\Documents\ejercicio3.c\ejercicio3.c\obj\Debug\ejercicio3.c.csproj.CoreCompileInputs.cache
+C:\Users\TUP^\Documents\ejercicio3.c\ejercicio3.c\obj\Debug\ejercicio3.c.exe
+C:\Users\TUP^\Documents\ejercicio3.c\ejercicio3.c\obj\Debug\ejercicio3.c.pdb
